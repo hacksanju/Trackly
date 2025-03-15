@@ -1,5 +1,5 @@
 #!/bin/bash
-# Hound v 0.2
+# Trackly v 0.2
 # Powered by TechChip
 # visit https://youtube.com/techchipnet
 
