@@ -1,7 +1,7 @@
 #!/bin/bash
 # Trackly v 0.2
-# Powered by TechChip
-# visit https://youtube.com/techchipnet
+# Powered by Hacksanju
+# visit https://github.com/hacksanju 
 
 trap 'printf "\n";stop' 2
 
